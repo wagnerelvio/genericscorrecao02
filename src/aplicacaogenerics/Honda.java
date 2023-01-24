@@ -10,10 +10,28 @@ package aplicacaogenerics;
 public class Honda extends Carro{
 
 	@Override
+	public String modelo() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
 	public double preco() {
 		// TODO Auto-generated method stub
-		return 250000.00;
+		return 0;
 	}
+
+	@Override
+	public int ano() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	 
+
+	
+
+
 	
 
 }

@@ -7,7 +7,7 @@ package aplicacaogenerics;
  * @author wagne
  *
  */
-public class Audi extends Carro{
+public class Fusca extends Carro {
 
 	@Override
 	public String modelo() {
@@ -26,8 +26,5 @@ public class Audi extends Carro{
 		// TODO Auto-generated method stub
 		return 0;
 	}
-
-	
-	
 
 }
